@@ -1,5 +1,13 @@
 HELP.md
-target/
+
+### Java / Maven / compiled artifacts ###
+*.class
+/target/
+**/target/
+**/build/
+**/bin/
+**/out/
+*.log
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
