@@ -1,3 +1,6 @@
+## 1.Video
+https://drive.google.com/drive/folders/1EM53lsxrH5Uv_wsIsO7oh8elBQzSNuWB?usp=drive_link
+
 # Comparison of Session-Based vs JWT Authentication
 
 This project hosts two independent, parallel applications to compare **Session-Based (Stateful)** authentication and **JWT-Based (Stateless)** authentication. Both applications share equivalent business logic, database entities, and user interfaces, with differences only in the authentication mechanism and request-response flow.
